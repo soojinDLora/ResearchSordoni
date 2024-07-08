@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/mainMenuMap.umap",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/menuGamemode.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/HandheldAR/Maps/mainMenuMap.umap",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/MosaicTileStandIn.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/ColorfulMosaicBG.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/MosaicTile.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/mainMenuLevel.umap",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/HandheldAR/Maps/quizLevel.umap",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/HandheldAR/Maps/scanLevel.umap",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/mainMenu.uasset",
+				"C:/Users/Alex M/Documents/School/Summer Work/Unreal Projects/MenuScenes/Content/UI/optionsMenuWidgetBlueprint.uasset"
+			]
+		}
+	]
+}
