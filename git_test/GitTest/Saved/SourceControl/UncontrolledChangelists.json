@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/git_test/GitTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal/git_test/GitTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/UW/DT3XNZSS6025GXBR2IYOB1.uasset"
+			]
+		}
+	]
+}
